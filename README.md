@@ -10,9 +10,8 @@ This repository contains the source code for a food delivery app developed using
 - **Browse Restaurants and Menus:** Users can explore a variety of restaurants and their menus.
 - **Food Ordering:** Users can add items to their cart, customize orders, and place orders.
 - **Real-time Order Tracking:** Users can track their orders in real-time and receive notifications.
-- **Secure Payments:** The app supports multiple payment methods, including credit card, PayPal, and more.
 - **Ratings and Reviews:** Users can leave reviews and ratings for restaurants and dishes.
-- **Admin Dashboard:** Restaurant owners and administrators can manage menus, orders, and user accounts.
+- **Admin Dashboard:** Administrators can manage menus, orders, and user accounts.
 
 ## Installation
 
@@ -21,7 +20,7 @@ This repository contains the source code for a food delivery app developed using
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/food-delivery-app.git
+   git clone https://github.com/yourusername/food-delivery.git
 Navigate to the flutter_app directory:
 
 bash
