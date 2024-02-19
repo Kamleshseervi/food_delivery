@@ -20,7 +20,7 @@ This repository contains the source code for a food delivery app developed using
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/food-delivery.git
+   git clone https://github.com/Kamleshseervi/food-delivery.git
 Navigate to the flutter_app directory:
 
 bash
